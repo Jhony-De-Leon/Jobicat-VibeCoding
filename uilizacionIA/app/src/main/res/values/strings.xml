@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Jobicat</string>
+    <string name="hobbies_title">Mis Hobbies</string>
+    <string name="add_hobby">Agregar Hobby</string>
+    <string name="edit_hobby">Editar Hobby</string>
+    <string name="hobby_name">Nombre del hobby</string>
+    <string name="difficulty_level">Nivel de dificultad</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="difficulty_easy">Fácil</string>
+    <string name="difficulty_medium">Medio</string>
+    <string name="difficulty_hard">Difícil</string>
+    <string name="no_hobbies">No tienes hobbies registrados</string>
+    <string name="error_empty_name">Por favor ingresa un nombre para el hobby</string>
+    <string name="error_no_difficulty">Por favor selecciona un nivel de dificultad</string>
+    <string name="hobby_saved">Hobby guardado exitosamente</string>
+    <string name="hobby_updated">Hobby actualizado exitosamente</string>
+    <string name="hobby_deleted">Hobby eliminado</string>
+    <string name="confirm_delete">¿Estás seguro que deseas eliminar este hobby?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+</resources>
